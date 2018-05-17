@@ -11,7 +11,7 @@ body {
 
 hr {
   max-width: 65px;
-  border-width: 2px;
+  border-width: 3px;
   border-color: #F05F44; 
 }
 
@@ -19,19 +19,19 @@ hr {
   color: rgba(255, 255, 255, 0.8); 
 }
 
-.startup {
+header.startup {
   background-position: center;
   background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
 }
 
-.startup hr {
+header.startup hr {
   margin-top: 200px;
   margin-bottom: 30px; 
 }
 
-.startup h1 {
+header.startup h1 {
   font-size: 2rem; 
 }
 
